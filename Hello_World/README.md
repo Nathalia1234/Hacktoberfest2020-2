@@ -37,5 +37,6 @@ It is often the first program written by people learning to code.
 |19|[LOLCODE](hello.lol)|[TheLegendOfKitty](https://github.com/TheLegendOfKitty)|
 |20|[ModiScript](hello.chai)|[solarconstant](https://github.com/solarconstant)|
 |21|[BC](hello.txt)|[Nithin KS](https://github.com/nithinkodadhavadee)|
+|22|[Julia](Hello.jl)|[Nathalia Ohana](https://github.com/Nathalia1234)|
 
 ![Hello](https://user-images.githubusercontent.com/72185115/94937816-b8da3300-04ed-11eb-8d36-3d42ad7b857c.gif)
